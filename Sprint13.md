@@ -1,34 +1,34 @@
 # Sprint 13 
 ## 2-09 
-- Begin svelte
-- leervragen 
-- team voor squad page 
+### Eerste dag van sprint 13. 
+- Begin met het leren van Sveltekit.
+- Team bekend voor squadpage -> ik zit samen met Daan, Christopher, Annelinde, Tristan en Jason
+- Leervragen opgesteld:
+    - Hoe werken frameworks? 
+    - Hoe begin ik met het leren van SvelteKit?
+    - Wat is Svelte? 
+    - Hoe werkt Sweltekit?
+    - Hoe kan je een logisch stappenplan maken om een opdracht uit te voeren? 
+    - Hoe plan ik mijn tijd beter in? 
+    - Hoe lever ik mijn bewijslast op de juiste manier op? 
+    - Hoe blijf ik constant de dlc gebruiken? 
+    - Hoe zorg ik dat ik mijn i love web bijhoud?
 
-Leervragen 
-Hoe werken frameworks? 
-Hoe begin ik met het leren van SvelteKit?
-Wat is Svelte? 
-Hoe werkt Sweltekit?
-Hoe kan je een logisch stappenplan maken om een opdracht uit te voeren? 
-Hoe plan ik mijn tijd beter in? 
-Hoe lever ik mijn bewijslast op de juiste manier op? 
-Hoe blijf ik constant de dlc gebruiken? 
-Hoe zorg ik dat ik mijn i love web bijhoud?
-
-
-3-09
+## 3-09
 - tutorial svelte 
 - team afspraak 
 
-4-09 
+## 4-09 
 Team meeting 
 - ontwerpen 
 - taken verdeeld 
 
-5-09
+## 5-09
 - gewerkt aan eigen taak (squadpage) 
 Code gebruikt om component te laten werken op homepagina 
 +page.svelte (begin pagina):
+
+```
 <script>
     import Card from '$lib/Card.svelte';
 
@@ -70,10 +70,10 @@ Card.svelte
 
 <style>
 </style>
+```
 
 
-
-6-09
+## 6-09
 - visitekaartjes eerstejaars feedback gegeven 
 
 Formuleer drie vragen over wat je heb geleerd (markdown bestand) 
@@ -82,7 +82,7 @@ Attomic design -> components
 Issues maken voor component 
 
 
-9–09 
+## 9–09 
 Workshop kill your darlings en workshop hoe ontwerp je in Figma (cyd) 
 Figma workshop van cyd 
 - auto layout en componenten 
@@ -101,11 +101,11 @@ vercel
 
 
 
-13-09 
+## 13-09 
 We love web eerste 
 Code/design review 
 
-16-09 
+## 16-09 
 Pokerplanning 
 Moscow 
 Mark twain 
@@ -172,11 +172,11 @@ Dit zijn goede ideeën en nuttig om te noteren maar we komen er nu niet aantoe
 
 
 
-17-09 
+## 17-09 
 Verder werken aan groepsopdracht 
 Op school cards gemaakt 
 
-18-09 
+## 18-09 
 Hoe lever ik een project op ?
 Readme 
 In readme cms uitleggen -> hoe vragen aan opdrachtgever 
@@ -205,7 +205,7 @@ Live zetten:
 GitHub pages, 
 
 
-Vrijdag 20 sep 
+## Vrijdag 20 sep 
 Niveaumatrix bespreken 
 Kampvuursessie 
 Bewijslast in portflow zetten 
